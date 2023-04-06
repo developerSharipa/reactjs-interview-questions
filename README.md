@@ -1,21 +1,5 @@
-# React Interview Questions & Answers
+# Вопросы и ответы с собеседований по ReactJS
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
----
-<div>
-<p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo" width="100" height="50">
-  </a>
-    <ol>
-      <li>I recommend this <a href="https://links.zerotomastery.io/react_sudheer">React course</a> if you’re serious about learning React and want to go beyond the basics</li>
-      <li>Want to ace your coding interview and get hired at your dream company? <a href="http://links.zerotomastery.io/mci_sudheer">Take this coding interview bootcamp</a></li>
-    </ol>
-  </p>
-</div>
-
----
 
 **Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
 
@@ -24,15 +8,15 @@
 | No. | Questions                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Core React**                                                                                                                                                                                                                   |
-| 1   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
-| 2   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                                                                                                   |
-| 3   | [What is JSX?](#what-is-jsx)                                                                                                                                                                                                     |
-| 4   | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component)                                                                                                                   |
-| 5   | [How to create components in React?](#how-to-create-components-in-react)                                                                                                                                                         |
-| 6   | [When to use a Class Component over a Function Component?](#when-to-use-a-class-component-over-a-function-component)                                                                                                             |
-| 7   | [What are Pure Components?](#what-are-pure-components)                                                                                                                                                                           |
-| 8   | [What is state in React?](#what-is-state-in-react)                                                                                                                                                                               |
-| 9   | [What are props in React?](#what-are-props-in-react)                                                                                                                                                                             |
+| 1   | [Что такое React?](#what-is-react)                                                                                                                                                                                                 |
+| 2   | [Какие основные функции React?](#what-are-the-major-features-of-react)                                                                                                                                                   |
+| 3   | [Что такое JSX?](#what-is-jsx)                                                                                                                                                                                                     |
+| 4   | [В чем разница между элементом и компонентом?](#what-is-the-difference-between-element-and-component)                                                                                                                   |
+| 5   | [Как создать компонент React?](#how-to-create-components-in-react)                                                                                                                                                         |
+| 6   | [Когда следует использовать Классовые компоненты поверх Функциональных компонетов?](#when-to-use-a-class-component-over-a-function-component)                                                                                                             |
+| 7   | [Что такое чистый компонент?](#what-are-pure-components)                                                                                                                                                                           |
+| 8   | [Что за хранилище в React?](#what-is-state-in-react)                                                                                                                                                                               |
+| 9   | [Что такое пропсы в React?](#what-are-props-in-react)                                                                                                                                                                             |
 | 10  | [What is the difference between state and props?](#what-is-the-difference-between-state-and-props)                                                                                                                               |
 | 11  | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly)                                                                                                                                     |
 | 12  | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)                                                                                   |
